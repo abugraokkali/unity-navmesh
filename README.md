@@ -4,6 +4,6 @@ Creating a simple scene by using unity terrrain and building navmesh in that sce
 
 ## Gameplay
 
-Click the picture or [here](https://youtu.be/lert8I9XYzM) to watch the gameplay.
+Click the picture or [here](https://youtu.be/UggegrYkeBk) to watch the gameplay.
 
 [![Watch the video](https://img.youtube.com/vi/UggegrYkeBk/maxresdefault.jpg)](https://youtu.be/UggegrYkeBk)
